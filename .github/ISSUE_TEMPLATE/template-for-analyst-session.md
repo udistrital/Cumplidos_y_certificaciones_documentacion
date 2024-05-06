@@ -1,5 +1,5 @@
 ---
-name: Analyst session
+name: Template for Analyst session
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
